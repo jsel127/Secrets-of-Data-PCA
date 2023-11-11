@@ -4,4 +4,6 @@
 The following section discusses Multidimensional Scaling (MDS), which can preserve pairwise distances and create reduced-dimensional representations. The mathematical framework of MDS, encompassing both metric and nonmetric variants, is studied, along with applications in psychology and bioinformatics.
 Lastly, this paper introduces a data visualization platform utilizing PCA and MDS. This drafting website connects theory and practice to explore datasets, applying PCA and MDS to observe visualizations in reduced-dimensional spaces and gain insights into data structure and relationships.
 
+
+
 **Keywords**: dimensionality reduction, Principal Component Analysis (PCA), Multidimensional Scaling (MDS),
