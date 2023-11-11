@@ -6,4 +6,4 @@ Lastly, this paper introduces a data visualization platform utilizing PCA and MD
 
 
 
-**Keywords**: dimensionality reduction, Principal Component Analysis (PCA), Multidimensional Scaling (MDS),
+**Keywords**: dimensionality reduction, Principal Component Analysis (PCA), Multidimensional Scaling (MDS), variance, covariance, eigenvector decomposition, 
