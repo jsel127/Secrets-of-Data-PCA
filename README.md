@@ -1,9 +1,14 @@
-# LinAlg_DataVisualization
-
-**Abstract**: This paper provides a comprehensive overview of dimensionality reduction techniques, focusing on Principal Component Analysis (PCA) and Multidimensional Scaling (MDS). The investigation begins with the mathematical underpinnings of PCA, discussing eigenvalues, eigenvectors, and data transformation into a lower-dimensional space with applications in fields such as machine learning and signal processing.
-The following section discusses Multidimensional Scaling (MDS), which can preserve pairwise distances and create reduced-dimensional representations. The mathematical framework of MDS, encompassing both metric and nonmetric variants, is studied, along with applications in psychology and bioinformatics.
-Lastly, this paper introduces a data visualization platform utilizing PCA and MDS. This drafting website connects theory and practice to explore datasets, applying PCA and MDS to observe visualizations in reduced-dimensional spaces and gain insights into data structure and relationships.
-
-
-
-**Keywords**: dimensionality reduction, Principal Component Analysis (PCA), Multidimensional Scaling (MDS), variance, covariance, eigenvector decomposition, 
+**Dimensionality Reduction Technique: Principal Component Analysis (PCA)**
+Jasmine Sellers1
+1 University of Washington undergraduate
+**Abstract**
+This paper provides a comprehensive overview of a dimensionality reduction technique called Principal Component Analysis (PCA). The investigation begins with the mathematical underpinnings of PCA, discussing eigenvalues, eigenvectors, and data transformation into a lower-dimensional space. The work is structured with an introduction to the main steps of PCA supplemented with a toy example.
+The paper then introduces a data visualization code utilizing PCA. This drafting code connects theory and practice to explore datasets, applying PCA to observe visualizations in reduced-dimensional spaces and gain insights into data trends and relationships.
+**Keywords:** dimensionality reduction, principal component analysis (PCA), covariance, variance, eigenvector, eigenvalue, feature vector
+<br>
+**Introduction**
+**Dimensionality Reduction Techniques**
+Dimensionality reduction techniques are methods that reduce the dimensions in a dataset while retaining key characteristics of the data. These techniques are applied in domains such as machine learning, data analysis, and data visualization. It tackles several key issues including higher-dimensional data, noise, and complexity. 
+Some dimensionality reduction techniques include neural networks, matrix factorization, and non-metric multidimensional scaling. This paper will concentrate on principal component analysis (PCA), a commonly used method which utilizes linear algebra in the computation of the covariance matrix and principal components. 
+**Principal Component Analysis**
+Principal component analysis (PCA) is a standard tool used in data analysis due to its non-parametric method for emphasizing the most significant information from high-dimensional datasets. The primary goal of PCA is to transform the data to lower dimensions while preserving its variability. This paper will use an example alongside the main formulas to explain Principal Component Analysis.
