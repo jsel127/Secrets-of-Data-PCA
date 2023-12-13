@@ -9,3 +9,4 @@ Dimensionality reduction techniques are methods that reduce the dimensions in a 
 Some dimensionality reduction techniques include neural networks, matrix factorization, and non-metric multidimensional scaling. This paper will concentrate on principal component analysis (PCA), a commonly used method which utilizes linear algebra in the computation of the covariance matrix and principal components. <br>
 ### Principal Component Analysis <br>
 Principal component analysis (PCA) is a standard tool used in data analysis due to its non-parametric method for emphasizing the most significant information from high-dimensional datasets. The primary goal of PCA is to transform the data to lower dimensions while preserving its variability. This paper will use an example alongside the main formulas to explain Principal Component Analysis.<br>
+### Full Paper: https://colab.research.google.com/drive/1d4sJspOo6wWh8k3m13wOpuBSy8zCedrX?usp=sharing
