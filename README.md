@@ -1,5 +1,4 @@
 # Dimensionality Reduction Technique: Principal Component Analysis (PCA) <br>
-Jasmine Sellers <br>
 ## Abstract <br>
 This paper provides a comprehensive overview of a dimensionality reduction technique called Principal Component Analysis (PCA). The investigation begins with the mathematical underpinnings of PCA, discussing eigenvalues, eigenvectors, and data transformation into a lower-dimensional space. The work is structured with an introduction to the main steps of PCA supplemented with a toy example.
 The paper then introduces a data visualization code utilizing PCA. This drafting code connects theory and practice to explore datasets, applying PCA to observe visualizations in reduced-dimensional spaces and gain insights into data trends and relationships.<br>
