@@ -1,4 +1,4 @@
-**Dimensionality Reduction Technique: Principal Component Analysis (PCA)**
+**Dimensionality Reduction Technique: Principal Component Analysis (PCA)**<br>
 Jasmine Sellers1
 1 University of Washington undergraduate
 **Abstract**
